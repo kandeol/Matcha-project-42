@@ -125,14 +125,6 @@ Once they have reciprocally matched, these two profiles should be able to exchan
 
 
 
-<!-- USAGE EXAMPLES -->
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
