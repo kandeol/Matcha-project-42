@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
 An application allowing a user to register and enter their personal details and preferences in the other, 
 in order to be able to match another user with a more or less corresponding profile, among a
@@ -161,4 +161,4 @@ Project Link: [https://github.com/kandeol/Matcha-project-42](https://github.com/
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/k%C3%A9vin-andeol-544723195/
-[product-screenshot]: images/Screen_Matcha.png
+[product-screenshot]: images/Screen_Matcha.PNG
