@@ -88,7 +88,7 @@ Once they have reciprocally matched, these two profiles should be able to exchan
 3. Clone or download/extract the project repository
     
     ```bash
-    git clone https://github.com/gde-pass/Matcha.git && cd Matcha/Docker
+    git clone https://github.com/kandeol/Matcha-project-42.git && cd Matcha/Docker
     ```
 
 4. Install depedencies
