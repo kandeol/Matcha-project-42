@@ -53,7 +53,7 @@
     "jsonwebtoken": "^8.4.0",
     "multer": "^1.4.1",
     "mysql": "^2.16.0",
-    "nodemailer": "^4.7.0",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.18.7",
     "nouislider": "^12.1.0",
     "path": "^0.12.7",
