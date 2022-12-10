@@ -35,7 +35,7 @@
     "cryptiles": ">=4.1.2",
     "ejs": "^2.6.1",
     "exit": "^0.1.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-handlebars": "^3.0.0",
     "express-mysql-session": "^2.0.1",
     "express-session": "^1.15.6",
